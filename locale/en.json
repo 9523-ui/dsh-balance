@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Balance",
+    "description": "Shows the current DeepSeek account balance beside the chat composer and refreshes it on demand."
+  }
+}
